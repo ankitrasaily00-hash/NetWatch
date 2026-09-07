@@ -1,0 +1,73 @@
+{
+    "network": {
+        "interface": "Wi-Fi",
+        "local_ip": "192.168.1.75",
+        "network": "192.168.1.0/24",
+        "gateway": "192.168.1.254"
+    },
+    "scan": {
+        "devices_discovered": 6,
+        "scan_time_seconds": 8.24
+    },
+    "devices": [
+        {
+            "ip": "192.168.1.64",
+            "mac": "6e:76:11:46:83:e2",
+            "hostname": "Unknown",
+            "vendor": "Unknown",
+            "role": "DEVICE"
+        },
+        {
+            "ip": "192.168.1.69",
+            "mac": "8e:04:6f:8b:90:43",
+            "hostname": "Unknown",
+            "vendor": "Unknown",
+            "role": "DEVICE"
+        },
+        {
+            "ip": "192.168.1.70",
+            "mac": "44:1c:a8:5d:ab:fd",
+            "hostname": "Unknown",
+            "vendor": "Unknown",
+            "role": "DEVICE"
+        },
+        {
+            "ip": "192.168.1.73",
+            "mac": "e4:42:a6:a6:81:e1",
+            "hostname": "AASHISH",
+            "vendor": "Unknown",
+            "role": "DEVICE"
+        },
+        {
+            "ip": "192.168.1.75",
+            "mac": "f8:5e:a0:a3:e4:d6",
+            "hostname": "DELTA-911.worldlink.com.np",
+            "vendor": "Acer",
+            "role": "LOCAL"
+        },
+        {
+            "ip": "192.168.1.254",
+            "mac": "54:37:bb:95:84:e4",
+            "hostname": "Unknown",
+            "vendor": "Unknown",
+            "role": "GATEWAY"
+        }
+    ],
+    "public_ip_intelligence": {
+        "ip": "27.34.65.147",
+        "private": false,
+        "available": true,
+        "country": "Nepal",
+        "country_code": "NP",
+        "region": "Bagmati",
+        "city": "Kathmandu",
+        "postal": "46600",
+        "latitude": 27.7083094,
+        "longitude": 85.3205847,
+        "timezone": null,
+        "isp": "WorldLink Communications",
+        "organization": "Dynamic allocation for Broadband Subscribers",
+        "asn": 17501,
+        "public_ip": "27.34.65.147"
+    }
+}

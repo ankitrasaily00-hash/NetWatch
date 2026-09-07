@@ -1,0 +1,4 @@
+ip,mac,hostname,vendor,role
+192.168.1.70,44:1c:a8:5d:ab:fd,Unknown,Unknown,DEVICE
+192.168.1.75,f8:5e:a0:a3:e4:d6,DELTA-911.worldlink.com.np,Acer,LOCAL
+192.168.1.254,54:37:bb:95:84:e4,Unknown,Unknown,GATEWAY
