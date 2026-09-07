@@ -60,9 +60,8 @@ def is_virtual_or_ignored_ip(ip):
     """
 
     ignored_prefixes = (
-        "127.",
+        "127.",   
         "192.168.75.",
-        "192.168.93.",
     )
 
     return ip.startswith(ignored_prefixes)
